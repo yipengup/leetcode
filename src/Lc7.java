@@ -6,7 +6,7 @@
  * @author yipengup
  * @date 2021/8/24
  */
-public class Test7 {
+public class Lc7 {
 
     public static void main(String[] args) {
         int x = -3;

@@ -10,14 +10,14 @@ import java.util.Map;
  * @author yipengup
  * @date 2021/8/27
  */
-public class Test322 {
+public class Lc322 {
 
     public static void main(String[] args) {
-        System.out.println(new Test322().coinChange(new int[]{1,2,5}, 11));
-        System.out.println(new Test322().coinChange(new int[]{2}, 3));
-        System.out.println(new Test322().coinChange(new int[]{1}, 0));
-        System.out.println(new Test322().coinChange(new int[]{1}, 1));
-        System.out.println(new Test322().coinChange(new int[]{1}, 2));
+        System.out.println(new Lc322().coinChange(new int[]{1,2,5}, 11));
+        System.out.println(new Lc322().coinChange(new int[]{2}, 3));
+        System.out.println(new Lc322().coinChange(new int[]{1}, 0));
+        System.out.println(new Lc322().coinChange(new int[]{1}, 1));
+        System.out.println(new Lc322().coinChange(new int[]{1}, 2));
     }
 
     /**

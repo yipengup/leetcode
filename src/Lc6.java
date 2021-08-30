@@ -11,13 +11,13 @@ import java.util.Objects;
  * @author yipengup
  * @date 2021/8/24
  */
-public class Test6 {
+public class Lc6 {
 
     public static void main(String[] args) {
         String s = "PAYPALISHIRING";
         int numRows = 1;
-        Test6 test6 = new Test6();
-        System.out.println(test6.convert(s, numRows));
+        Lc6 lc6 = new Lc6();
+        System.out.println(lc6.convert(s, numRows));
     }
 
     public String convert(String s, int numRows) {

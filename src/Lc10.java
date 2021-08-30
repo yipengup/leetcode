@@ -8,15 +8,15 @@ import java.util.regex.Pattern;
  * @author yipengup
  * @date 2021/8/26
  */
-public class Test10 {
+public class Lc10 {
 
     public static void main(String[] args) {
 
-        System.out.println(new Test10().isMatch("aa", "a"));
-        System.out.println(new Test10().isMatch("aa", "a*"));
-        System.out.println(new Test10().isMatch("ab", ".*"));
-        System.out.println(new Test10().isMatch("aab", "c*a*b"));
-        System.out.println(new Test10().isMatch("mississippi", "mis*is*p*."));
+        System.out.println(new Lc10().isMatch("aa", "a"));
+        System.out.println(new Lc10().isMatch("aa", "a*"));
+        System.out.println(new Lc10().isMatch("ab", ".*"));
+        System.out.println(new Lc10().isMatch("aab", "c*a*b"));
+        System.out.println(new Lc10().isMatch("mississippi", "mis*is*p*."));
     }
 
     /**

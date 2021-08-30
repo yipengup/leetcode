@@ -6,7 +6,7 @@
  * @author yipengup
  * @date 2021/8/25
  */
-public class Test8 {
+public class Lc8 {
 
     public static void main(String[] args) {
         // System.out.println(new Test8().myAtoi("42"));

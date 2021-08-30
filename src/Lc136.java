@@ -7,11 +7,11 @@
  * @author yipengup
  * @date 2021/8/26
  */
-public class Test136 {
+public class Lc136 {
 
     public static void main(String[] args) {
-        Test136 test136 = new Test136();
-        System.out.println(test136.singleNumber(new int[]{1, 2, 1}));
+        Lc136 lc136 = new Lc136();
+        System.out.println(lc136.singleNumber(new int[]{1, 2, 1}));
     }
 
     /**

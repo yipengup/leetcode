@@ -5,13 +5,13 @@
  * @author yipengup
  * @date 2021/8/27
  */
-public class Test509 {
+public class Lc509 {
 
     public static void main(String[] args) {
 
-        System.out.println(new Test509().fib(2));
-        System.out.println(new Test509().fib(3));
-        System.out.println(new Test509().fib(4));
+        System.out.println(new Lc509().fib(2));
+        System.out.println(new Lc509().fib(3));
+        System.out.println(new Lc509().fib(4));
     }
 
     public int fib(int n) {

@@ -6,19 +6,19 @@
  * @author yipengup
  * @date 2021/8/26
  */
-public class Test9 {
+public class Lc9 {
 
     public static void main(String[] args) {
-        Test9 test9 = new Test9();
-        System.out.println(test9.isPalindrome(0));
-        System.out.println(test9.isPalindrome(-1));
-        System.out.println(test9.isPalindrome(1));
-        System.out.println(test9.isPalindrome(11));
-        System.out.println(test9.isPalindrome(-11));
-        System.out.println(test9.isPalindrome(121));
-        System.out.println(test9.isPalindrome(-121));
-        System.out.println(test9.isPalindrome( 10));
-        System.out.println(test9.isPalindrome( -101));
+        Lc9 lc9 = new Lc9();
+        System.out.println(lc9.isPalindrome(0));
+        System.out.println(lc9.isPalindrome(-1));
+        System.out.println(lc9.isPalindrome(1));
+        System.out.println(lc9.isPalindrome(11));
+        System.out.println(lc9.isPalindrome(-11));
+        System.out.println(lc9.isPalindrome(121));
+        System.out.println(lc9.isPalindrome(-121));
+        System.out.println(lc9.isPalindrome( 10));
+        System.out.println(lc9.isPalindrome( -101));
     }
 
     /**
