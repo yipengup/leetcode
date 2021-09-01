@@ -5,19 +5,12 @@
 public class Sample {
 
     public static void main(String[] args) {
-        int[][] ints = new int[2][3];
 
-        System.out.println(ints.length);
-        System.out.println(ints[0].length);
-
-        // [
-        //  [1,2,3],
-        //  [1,2,3]
-        // ]
-
-        // for (int i = 0; i < ints.length; i++) {
-        //
-        // }
-
+        int a = 3;
+        int b = 32;
+        int c = a << 16 | b;
+        System.out.println(Integer.toBinaryString(a));
+        System.out.println(Integer.toBinaryString(b));
+        System.out.println(Integer.toBinaryString(c));
     }
 }
